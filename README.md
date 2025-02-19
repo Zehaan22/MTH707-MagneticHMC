@@ -1,2 +1,27 @@
-# MTH707-MagneticHMC
-This is the project repository that contains the documentation for my course project on Magnetic HMC for MTH707.
+## MTH707- Course Project
+
+# Magnetic Hamiltonian Monte Carlo
+
+Hello fellow explorer!
+
+This repositiry contains my implementation of Magnetic Hamiltonian Monte Carlo (MHMC). 
+The aim of this project is to create a problem agnostic MCMC sampler guided by the principles of conformal Hamiltonian Dynamics and to remove the need for un-intuitive tuning paramaters. 
+
+### Repository Structure:
+- Code:
+
+Directory with all the code implementations for all the algorithms and visualisations (all in R).
+
+- Papers:
+
+Reference articles for the project.
+
+- Images:
+Images used to genreate the report.
+
+
+- Reports:
+
+Directory with theoretical doccumentation of the algorithms implemented in the project.
+
+Hope you have fun with this read!
