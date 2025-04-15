@@ -12,6 +12,8 @@ The aim of this project is to create a problem agnostic MCMC sampler guided by t
 
 Directory with all the code implementations for all the algorithms and visualisations (all in R).
 
+Within this repository, I have folders for all the targets and algorithms that I implement in this paper and their underlying structure and how to run them is explained in the README.md file in the folder.
+
 - Papers:
 
 Reference articles for the project.
